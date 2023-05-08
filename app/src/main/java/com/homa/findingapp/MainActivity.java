@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
+//This is new feature branch
 public class MainActivity extends AppCompatActivity {
     Button button;
     EditText editText;
